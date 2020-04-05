@@ -1,7 +1,13 @@
 import React, { Component } from 'react';
-import serachMovie from './../../actions/SearchActions';
+import { connect } from 'react-redux';
+import { searchMovie } from './../../actions/SearchActions';
 
 class SearchForm extends Component {
+
+    onInput = (e) => {
+        this.props.searchMovie(e.target.value);
+    }
+
     render() {
         return (
             <div className='search-form'>
@@ -24,4 +30,8 @@ class SearchForm extends Component {
     }
 }
 
-export default SearchForm
+const mapStateToProps = state => ({
+    text: state.movies.text
+})
+
+export default connect(mapStateToProps, { searchMovie })(SearchForm);
