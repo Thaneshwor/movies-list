@@ -6,3 +6,34 @@
 	margin: 0;
 	padding: 0;
 }
+
+.container{
+    padding: 50px 100px;
+}
+
+
+
+.search-form{
+    text-align: center;
+    padding: 50px 0;
+    background-color: #C0C0C0;
+}
+
+.search-input{
+    width: 80%;
+    margin: 40px 50px;
+    padding: 10px 40px; 
+}
+
+.search-btn{
+    display: block;
+    margin: 0 auto;
+    background-color: #722F37;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 24px;
+    cursor: pointer;
+}
