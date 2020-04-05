@@ -1,5 +1,5 @@
 import { combineReducers } from 'redux';
-import { serchReducer } from './searchReducer';
+import serchReducer from './searchReducer';
 
 export default combineReducers(
     {
