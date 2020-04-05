@@ -3,11 +3,11 @@ import './footer.css';
 
 function Footer() {
     return (
-        <div>
+        <div className='footer'>
             DevelopedBy: Yaser AlAzem
             <span>Using React</span>
             Using React JS & Redux JS integrated with external movies data
-            <a href="">APIOMDB</a>
+            <a href="#">APIOMDB</a>
         </div>
     )
 }

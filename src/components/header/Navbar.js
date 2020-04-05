@@ -3,11 +3,11 @@ import './navbar.css';
 
 function Navbar() {
     return (
-        <div>
-            <div className=''>
+        <div className='nav-bar'>
+            <span className='nav-bar-title'>
                 <a href="">MoviesSeriesInfo</a>
-            </div>
-            <ul className=''>
+            </span>
+            <ul className='nav-bar-items'>
                 <li><img src='' />IMD</li>
                 <li><img src='' />IMD</li>
             </ul>
