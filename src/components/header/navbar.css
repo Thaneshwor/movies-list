@@ -6,19 +6,33 @@
 
 .nav-bar{
     width: 100%;
-    background-color: blue;
+    height: 100px;
+    margin-bottom: 40px;
+    background-color: lightskyblue;
+}
+
+.nav-bar span{
+    display: inline-block;
 }
 
 .nav-bar-title{
-    width: 20%;
-    float: left;
-    font-weight: 700;
+    width: 30%;
+    float: left;   
     color: wheat;
+    text-align: center;
 }
 
+.nav-bar-title a{
+    font-size: 50px;
+}
 .nav-bar-items {
     width: 70%;
     float: right;
+    text-align: right;
+}
+
+.logo{
+    width: 100px;
 }
 
 a{
@@ -27,6 +41,12 @@ a{
 
 ul li{
     list-style-type: none;
-	display: inline-block;	
+    display: inline-block;	
 }
+
+.nav-bar-items img{
+    width: 100px;
+    height: 100px;
+}
+
 
