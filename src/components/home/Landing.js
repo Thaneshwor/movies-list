@@ -10,7 +10,7 @@ class Landing extends Component {
         const { loading } = this.props;
 
         return (
-            <div className='container'>
+            <div className='container container-max-width'>
                 <SearchForm />
 
                 {loading ? <Spinner /> : <MoviesContainer />}
