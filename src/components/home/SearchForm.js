@@ -23,7 +23,7 @@ class SearchForm extends Component {
                     <form className='form-container' onSubmit={this.onSubmit}>
                         <input type='text'
                             name='serchText'
-                            placeholder='Search for moives, TV series...'
+                            placeholder='Search for moives, TV series..(Searching is blocked by API).'
                             className='search-input'
                             onChange={this.onInput} />
                         <button className='search-btn'>Search</button>
