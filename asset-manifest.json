@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/MOVIES-LIST/static/css/main.44324148.chunk.css",
-    "main.js": "/MOVIES-LIST/static/js/main.e92a7337.chunk.js",
-    "main.js.map": "/MOVIES-LIST/static/js/main.e92a7337.chunk.js.map",
-    "runtime-main.js": "/MOVIES-LIST/static/js/runtime-main.706e4ee5.js",
-    "runtime-main.js.map": "/MOVIES-LIST/static/js/runtime-main.706e4ee5.js.map",
-    "static/js/2.e40cec7f.chunk.js": "/MOVIES-LIST/static/js/2.e40cec7f.chunk.js",
-    "static/js/2.e40cec7f.chunk.js.map": "/MOVIES-LIST/static/js/2.e40cec7f.chunk.js.map",
-    "index.html": "/MOVIES-LIST/index.html",
-    "precache-manifest.534d1e87509b555a9a5a953b4f22380b.js": "/MOVIES-LIST/precache-manifest.534d1e87509b555a9a5a953b4f22380b.js",
-    "service-worker.js": "/MOVIES-LIST/service-worker.js",
-    "static/css/main.44324148.chunk.css.map": "/MOVIES-LIST/static/css/main.44324148.chunk.css.map",
-    "static/js/2.e40cec7f.chunk.js.LICENSE.txt": "/MOVIES-LIST/static/js/2.e40cec7f.chunk.js.LICENSE.txt",
-    "static/media/download.jpg": "/MOVIES-LIST/static/media/download.2a6d2176.jpg",
-    "static/media/hollywood.jpg": "/MOVIES-LIST/static/media/hollywood.a809c12c.jpg",
-    "static/media/logo.jpg": "/MOVIES-LIST/static/media/logo.d1e259b7.jpg",
-    "static/media/xman.jpeg": "/MOVIES-LIST/static/media/xman.758e0d5d.jpeg"
+    "main.css": "/movies-list/static/css/main.44324148.chunk.css",
+    "main.js": "/movies-list/static/js/main.d7353ed2.chunk.js",
+    "main.js.map": "/movies-list/static/js/main.d7353ed2.chunk.js.map",
+    "runtime-main.js": "/movies-list/static/js/runtime-main.ad3e2267.js",
+    "runtime-main.js.map": "/movies-list/static/js/runtime-main.ad3e2267.js.map",
+    "static/js/2.e40cec7f.chunk.js": "/movies-list/static/js/2.e40cec7f.chunk.js",
+    "static/js/2.e40cec7f.chunk.js.map": "/movies-list/static/js/2.e40cec7f.chunk.js.map",
+    "index.html": "/movies-list/index.html",
+    "precache-manifest.644043f9c586539a5e00579b27c5611e.js": "/movies-list/precache-manifest.644043f9c586539a5e00579b27c5611e.js",
+    "service-worker.js": "/movies-list/service-worker.js",
+    "static/css/main.44324148.chunk.css.map": "/movies-list/static/css/main.44324148.chunk.css.map",
+    "static/js/2.e40cec7f.chunk.js.LICENSE.txt": "/movies-list/static/js/2.e40cec7f.chunk.js.LICENSE.txt",
+    "static/media/download.jpg": "/movies-list/static/media/download.2a6d2176.jpg",
+    "static/media/hollywood.jpg": "/movies-list/static/media/hollywood.a809c12c.jpg",
+    "static/media/logo.jpg": "/movies-list/static/media/logo.d1e259b7.jpg",
+    "static/media/xman.jpeg": "/movies-list/static/media/xman.758e0d5d.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.706e4ee5.js",
+    "static/js/runtime-main.ad3e2267.js",
     "static/js/2.e40cec7f.chunk.js",
     "static/css/main.44324148.chunk.css",
-    "static/js/main.e92a7337.chunk.js"
+    "static/js/main.d7353ed2.chunk.js"
   ]
 }
