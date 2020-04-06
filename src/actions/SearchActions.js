@@ -22,3 +22,17 @@ export const fetchMovie = text => dispatch => {
         .catch(error => console.log(error))
 }
 
+
+
+
+// export const fetchMovie = text => dispatch => {
+
+//     axios.get(`./../data.json`) //${text}
+//         .then(response => dispatch({
+//             type: FETCH_MOVIES,
+//             // console.log(response);
+//             payload: response
+//         }))
+//         .catch(error => console.log(error))
+// }
+
