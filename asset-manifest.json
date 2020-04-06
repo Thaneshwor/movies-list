@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/MOVIES-LIST/static/css/main.44324148.chunk.css",
+    "main.js": "/MOVIES-LIST/static/js/main.e92a7337.chunk.js",
+    "main.js.map": "/MOVIES-LIST/static/js/main.e92a7337.chunk.js.map",
+    "runtime-main.js": "/MOVIES-LIST/static/js/runtime-main.706e4ee5.js",
+    "runtime-main.js.map": "/MOVIES-LIST/static/js/runtime-main.706e4ee5.js.map",
+    "static/js/2.e40cec7f.chunk.js": "/MOVIES-LIST/static/js/2.e40cec7f.chunk.js",
+    "static/js/2.e40cec7f.chunk.js.map": "/MOVIES-LIST/static/js/2.e40cec7f.chunk.js.map",
+    "index.html": "/MOVIES-LIST/index.html",
+    "precache-manifest.534d1e87509b555a9a5a953b4f22380b.js": "/MOVIES-LIST/precache-manifest.534d1e87509b555a9a5a953b4f22380b.js",
+    "service-worker.js": "/MOVIES-LIST/service-worker.js",
+    "static/css/main.44324148.chunk.css.map": "/MOVIES-LIST/static/css/main.44324148.chunk.css.map",
+    "static/js/2.e40cec7f.chunk.js.LICENSE.txt": "/MOVIES-LIST/static/js/2.e40cec7f.chunk.js.LICENSE.txt",
+    "static/media/download.jpg": "/MOVIES-LIST/static/media/download.2a6d2176.jpg",
+    "static/media/hollywood.jpg": "/MOVIES-LIST/static/media/hollywood.a809c12c.jpg",
+    "static/media/logo.jpg": "/MOVIES-LIST/static/media/logo.d1e259b7.jpg",
+    "static/media/xman.jpeg": "/MOVIES-LIST/static/media/xman.758e0d5d.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.706e4ee5.js",
+    "static/js/2.e40cec7f.chunk.js",
+    "static/css/main.44324148.chunk.css",
+    "static/js/main.e92a7337.chunk.js"
+  ]
+}
