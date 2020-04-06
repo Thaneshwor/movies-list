@@ -6,16 +6,21 @@ import Footer from './components/layout/footer/Footer';
 import Landing from './components/home/Landing';
 import { Provider } from 'react-redux';
 import store from './store';
-import MovieCard from './components/home/MovieCard';
+import { HashRouter as Router } from 'react-router-dom';
+
 
 
 class App extends Component {
   render() {
     return (
       <Provider store={store}>
-        <Navbar />
-        <Landing />
-        <Footer />
+        <Router>
+          <div>
+            <Navbar />
+            <Landing />
+            <Footer />
+          </div>
+        </Router>
       </Provider >
     )
   }

@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import { Link } from 'react-router-dom'
 
 class MovieCard extends Component {
 
@@ -11,7 +12,7 @@ class MovieCard extends Component {
                 <div className='card-body'>
                     <img className='' src={require('../../images/m.jpeg')} alt='Movie cover' />
                     <h5>Movie - 1991</h5>
-                    <a href='#' >Movie Details</a>
+                    <Link to='#' >Movie Details</Link>
                 </div>
             </div>
         )
