@@ -1,6 +1,6 @@
-*{
+/* *{
     outline: 1px red dotted !important;
-}
+} */
 
 *{
 	margin: 0;
@@ -36,4 +36,47 @@
     text-decoration: none;
     font-size: 24px;
     cursor: pointer;
+}
+
+.movie-row{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.card-container{
+    width: 30%;
+    padding: 20px;
+    margin: 5px;
+    background: #8e9190;
+    text-align: center;
+    
+}
+
+.card-container h5{
+    font-size: 20px;
+    padding: 10px;
+    color: aliceblue;
+
+}
+
+img{
+    width: 100%;
+    height: 100%;
+}
+
+.card-container link{
+    padding: 10px 10px;
+
+    background-color: red;
+}
+
+.card-container span{
+    padding: 10px 25px;
+    width: 100%;
+    background-color: rgb(57, 224, 205);
+    color: black;
+    font-weight: 550;
 }
