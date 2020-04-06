@@ -26,7 +26,7 @@ const mapStateToProps = state => {
                 "year": 1991,
                 "rank": "1",
                 "id": "tt0111161",
-                "Poster": "../../images/m.jpeg"
+                "Poster": "../../images/rock.jpeg"
             },
             {
                 "title": "The Godfather",
@@ -40,21 +40,21 @@ const mapStateToProps = state => {
                 "year": 1991,
                 "rank": "3",
                 "id": "tt0071562",
-                "Poster": "../../images/m.jpeg"
+                "Poster": "../../images/mon.jpeg"
             },
             {
                 "title": "Pulp Fiction",
                 "year": 1991,
                 "rank": "4",
                 "id": "tt0110912",
-                "Poster": "../../images/m.jpeg"
+                "Poster": "../../images/oo7.jpg"
             },
             {
                 "title": "The Good, the Bad and the Ugly",
                 "year": 1991,
                 "rank": "5",
                 "id": "tt0060196",
-                "Poster": "../../images/m.jpeg"
+                "Poster": "../../images/xman.jpeg"
             }
         ]
     }

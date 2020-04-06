@@ -189,4 +189,34 @@ input[type=text]{
         text-align: center;        
     }
 
+    .search-form{
+        text-align: center;
+        padding: 28px 0;
+        background-color: #C0C0C0;
+    }
+
+    .container {
+        padding: 55px 40px;
+    }
+
+}
+
+
+@media screen and (max-width: 480) {
+    .card-container{
+        width: 70%;
+        padding: 20px;
+        margin: 5px;
+        background: #8e9190;
+        text-align: center;        
+    }
+
+    .search-form{
+        padding: 28px 0;
+    }
+
+    .container {
+        padding: 55px 20px;
+    }
+
 }
