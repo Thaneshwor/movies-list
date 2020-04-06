@@ -1,0 +1,53 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.nav-bar{
+    width: 100%;
+    height: 100px;
+    padding: 10px 10px;
+    margin:0, 0px 0px 0px;
+    background-color: lightskyblue;
+}
+
+.nav-bar span{
+    display: inline-block;
+}
+
+.nav-bar-title{
+    width: 30%;
+    float: left;   
+    color: wheat;
+    text-align: center;
+}
+
+.nav-bar-title a{
+    font-size: 50px;
+}
+.nav-bar-items {
+    width: 70%;
+    float: right;
+    text-align: right;
+}
+
+.logo{
+    width: 100px;
+}
+
+a{
+	text-decoration: none;
+}
+
+ul li{
+    list-style-type: none;
+    display: inline-block;	
+}
+
+.nav-bar-items img{
+    width: 100px;
+    height: 100px;
+}
+
+
