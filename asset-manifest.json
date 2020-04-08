@@ -1,26 +1,29 @@
 {
   "files": {
-    "main.css": "/movies-list/static/css/main.44324148.chunk.css",
-    "main.js": "/movies-list/static/js/main.d7353ed2.chunk.js",
-    "main.js.map": "/movies-list/static/js/main.d7353ed2.chunk.js.map",
+    "main.css": "/movies-list/static/css/main.bbabd03d.chunk.css",
+    "main.js": "/movies-list/static/js/main.1e1804f2.chunk.js",
+    "main.js.map": "/movies-list/static/js/main.1e1804f2.chunk.js.map",
     "runtime-main.js": "/movies-list/static/js/runtime-main.ad3e2267.js",
     "runtime-main.js.map": "/movies-list/static/js/runtime-main.ad3e2267.js.map",
-    "static/js/2.e40cec7f.chunk.js": "/movies-list/static/js/2.e40cec7f.chunk.js",
-    "static/js/2.e40cec7f.chunk.js.map": "/movies-list/static/js/2.e40cec7f.chunk.js.map",
+    "static/js/2.ac0cc54c.chunk.js": "/movies-list/static/js/2.ac0cc54c.chunk.js",
+    "static/js/2.ac0cc54c.chunk.js.map": "/movies-list/static/js/2.ac0cc54c.chunk.js.map",
     "index.html": "/movies-list/index.html",
-    "precache-manifest.644043f9c586539a5e00579b27c5611e.js": "/movies-list/precache-manifest.644043f9c586539a5e00579b27c5611e.js",
+    "precache-manifest.b5347d0f6f360e87340b82f368ca3375.js": "/movies-list/precache-manifest.b5347d0f6f360e87340b82f368ca3375.js",
     "service-worker.js": "/movies-list/service-worker.js",
-    "static/css/main.44324148.chunk.css.map": "/movies-list/static/css/main.44324148.chunk.css.map",
-    "static/js/2.e40cec7f.chunk.js.LICENSE.txt": "/movies-list/static/js/2.e40cec7f.chunk.js.LICENSE.txt",
+    "static/css/main.bbabd03d.chunk.css.map": "/movies-list/static/css/main.bbabd03d.chunk.css.map",
+    "static/js/2.ac0cc54c.chunk.js.LICENSE.txt": "/movies-list/static/js/2.ac0cc54c.chunk.js.LICENSE.txt",
     "static/media/download.jpg": "/movies-list/static/media/download.2a6d2176.jpg",
     "static/media/hollywood.jpg": "/movies-list/static/media/hollywood.a809c12c.jpg",
     "static/media/logo.jpg": "/movies-list/static/media/logo.d1e259b7.jpg",
+    "static/media/m.jpeg": "/movies-list/static/media/m.fcbebcf3.jpeg",
+    "static/media/mon.jpeg": "/movies-list/static/media/mon.101d099e.jpeg",
+    "static/media/oo7.jpg": "/movies-list/static/media/oo7.d029a2c3.jpg",
     "static/media/xman.jpeg": "/movies-list/static/media/xman.758e0d5d.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.ad3e2267.js",
-    "static/js/2.e40cec7f.chunk.js",
-    "static/css/main.44324148.chunk.css",
-    "static/js/main.d7353ed2.chunk.js"
+    "static/js/2.ac0cc54c.chunk.js",
+    "static/css/main.bbabd03d.chunk.css",
+    "static/js/main.1e1804f2.chunk.js"
   ]
 }
